@@ -8,7 +8,7 @@ O **CRUD** é um projeto de exemplo/tutorial para **Android Studio** que ensina 
 
 ---
 
-## Funcionalidades
+## Funcionalidades  
 
 - Criar novos registros no banco de dados
 - Listar todos os registros
